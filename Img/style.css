@@ -154,6 +154,45 @@ a {
     font-size: 16px;
 }
 
+.pics_text {
+	margin-top: 8%;
+	margin-bottom: 8%;
+}
+
+.image {
+	width: 40%;
+	float: left;
+}
+
+.me_image {
+	width: 40%;
+	margin-left: 35%;
+}
+
+.texts {
+	width: 45%;
+	float: left;
+}
+
+.images1 {
+	margin-top: 40px;
+	width: 100%;
+}
+
+.images {
+	width: 100%;
+}
+
+.click {
+	text-align: center;
+}
+
+.here {
+	text-decoration: underline;
+}
+
+
+
 @media (min-width:601px) and (max-width:1200px) {
 	.coln1 {
         width:40%;
