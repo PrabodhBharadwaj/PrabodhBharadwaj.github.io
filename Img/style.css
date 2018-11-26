@@ -85,7 +85,7 @@ a {
 }
 
 #row {
-	margin-bottom: 1000px;
+	margin-bottom: 750px;
 }
 
 .coln1 {
@@ -195,17 +195,17 @@ a {
 
 
 
-@media (min-width:601px) and (max-width:1200px) {
+@media (min-width:651px) and (max-width:1200px) {
 	.coln1 {
         width:40%;
         margin-top: 10%;
         margin-left: 6%;
         padding-bottom: 5%;
-        height: 450px;
+        height: 480px;
     }
 
     #row {
-    	margin-bottom: 1850px;
+    	margin-bottom: 1700px;
     }
 }
 
@@ -219,7 +219,7 @@ a {
     }
 
     #row {
-    	margin-bottom: 3000px;
+    	margin-bottom: 2750px;
     }
 
     .main {
@@ -250,4 +250,16 @@ a {
 		padding-left: 7%;
 		padding-right: 7%;
 	}
+}
+
+@media (max-width:400px) {
+	#row {
+    	margin-bottom: 2400px;
+    }
+}
+
+@media (max-width:320px) {
+	#row {
+    	margin-bottom: 2150px;
+    }
 }
