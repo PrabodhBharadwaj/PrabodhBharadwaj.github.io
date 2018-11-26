@@ -175,27 +175,6 @@ a {
 	padding-bottom: 250px;
 }
 
-.footer {
-	margin-top: 300px;
-    clear: both;
-	background-color: rgba(0,0,16,1);
-	height: 15%;
-	text-align: center;
-}
-
-.touch {
-	color: rgba(0,113,188,1);
-	font-size: 18px;
-	font-family: avenir;
-	font-weight: bold;
-}
-
-.fotbod {
-	color: white;
-	font-size: 16px;
-	font-family: avenir;
-}
-
 .images1 {
 	margin-top: 40px;
 	width: 100%;
