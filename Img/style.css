@@ -209,7 +209,7 @@ a {
 }
 
 @media (max-width:650px) {
-    .coln1{
+    .coln1 {
         width: 80%;
         margin-left: 9%;
         margin-top: 8%;
