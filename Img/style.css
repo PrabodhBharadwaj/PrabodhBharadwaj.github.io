@@ -223,7 +223,16 @@ a {
 	text-decoration: underline;
 }
 
+@media (max-width:1440px) {
+	.coln1 {
+		height: 450px;
+	}
 
+	#row {
+		margin-bottom: 900px;
+	}
+
+}
 
 @media (min-width:651px) and (max-width:1200px) {
 	.coln1 {
