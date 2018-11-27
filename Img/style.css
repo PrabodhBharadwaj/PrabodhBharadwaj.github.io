@@ -223,7 +223,7 @@ a {
 	text-decoration: underline;
 }
 
-@media (max-width:1440px) {
+@media (min-width:1440px) {
 	.coln1 {
 		height: 450px;
 	}
@@ -234,7 +234,7 @@ a {
 
 }
 
-@media (min-width:651px) and (max-width:1200px) {
+@media (min-width:901px) and (max-width:1200px) {
 	.coln1 {
         width:40%;
         margin-top: 10%;
@@ -245,6 +245,20 @@ a {
 
     #row {
     	margin-bottom: 1700px;
+    }
+}
+
+@media (min-width:651px) and (max-width:900px) {
+	.coln1 {
+        width:40%;
+        margin-top: 10%;
+        margin-left: 6%;
+        padding-bottom: 5%;
+        height: 400px;
+    }
+
+    #row {
+    	margin-bottom: 1350px;
     }
 }
 
